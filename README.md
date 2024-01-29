@@ -51,7 +51,7 @@ Resident Space Object Detection, as a niche version of the object detection comp
 | :--: | :---: | :----: | :--: | :---: |
 | SatNet| [2019](https://amostech.com/TechnicalPapers/2019/Machine-Learning-for-SSA-Applications/Fletcher.pdf) | No | NA |  |
 | SatSim| [2019](https://amostech.com/TechnicalPapers/2019/Machine-Learning-for-SSA-Applications/Fletcher.pdf) | No | NA |  |
-| SAB-RSOD | [2023](https://arxiv.org/pdf/2305.00412v1.pdf) | No? | NA | Cannot find access to the paper |
+| SAB-RSOD | [2023](https://arxiv.org/pdf/2305.00412v1.pdf) | No(?) | NA | Cannot find access to the paper |
 
 ### Resident Space Object Recognition <a name="rso_recognition"></a>
 
@@ -59,8 +59,8 @@ Resident Space Object Detection, as a niche version of the object detection comp
 
 | Name | Paper | Public | Link | Notes |
 | :--: | :---: | :----: | :--: | :---: |
-| BUAA-SID 1.0 | Buaa-sid1.0 space object image dataset. | No? | NA | Papers mention this as a public dataset but cannot find access to it |
-| BUAA-SID 1.5 | [2014](https://www.sciencedirect.com/science/article/pii/S1000936114000533) | No? | NA | Cannot find a link to the dataset |
+| BUAA-SID 1.0 | Buaa-sid1.0 space object image dataset. | Yes | NA | Papers mention this as a public dataset but cannot find access to it |
+| BUAA-SID 1.5 | [2014](https://www.sciencedirect.com/science/article/pii/S1000936114000533) | No(?) | NA | Cannot find a link to the dataset |
 
 <!---
 ### Space Weather Forecasting
