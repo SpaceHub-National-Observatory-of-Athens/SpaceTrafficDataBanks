@@ -3,13 +3,13 @@ A collection of datasets for tasks related to Space Trafic Management
 
 ### Table of contents
 * [Space Traffic Management specific Applications](#stm_applications)
-    1. [Attitude/Pose estimation](attitude_estimation)
-    2. [Collission Avoidance/Risk / Conjunction Analysis](collision_avoidance)
-    3. [Maneuver Detection](maneuver_detection)
-    4. [Orbit Prediction/Propagation/Determination](orbit_prediction)
-    5. [Resident Space Object Detection](rso_detection)
-    6. [Resident Space Object Recognition](rso_recognition)
-    7. [Resident Space Object Characterization](rso_characterization)
+    1. [Attitude/Pose estimation](#attitude_estimation)
+    2. [Collission Avoidance/Risk / Conjunction Analysis](#collision_avoidance)
+    3. [Maneuver Detection](#maneuver_detection)
+    4. [Orbit Prediction/Propagation/Determination](#orbit_prediction)
+    5. [Resident Space Object Detection](#rso_detection)
+    6. [Resident Space Object Recognition](#rso_recognition)
+    7. [Resident Space Object Characterization](#rso_characterization)
 
 ## Space Traffic Management specific Applications <a name="stm_applications"></a>
 
